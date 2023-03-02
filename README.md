@@ -16,6 +16,11 @@ This is the List Product Page. It shows us all the products we have.
 
 ![ListProduct](https://user-images.githubusercontent.com/126595354/222164167-00b9f3b5-b606-4637-8be7-fd09a5e36154.jpg)
 
+In List Product Page, we can edit the product when clicking on them.
+
+
+![Product Edit](https://user-images.githubusercontent.com/126595354/222420121-b9559c01-984f-4d3c-ba85-744f659e484f.jpg)
+
 
 This is the Schedule Page. It shows us the appointments arranged every day.
 
