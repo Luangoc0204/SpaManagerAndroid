@@ -1,4 +1,7 @@
 This is my Android project using Java. Spa Manager allows managing your appointments and products.
+Usage technology:
+- Android Java
+- Firebase, Material Design, ...
 ---------------------------------------------------
 This is the Home Page. It shows us the next appointment closest to the current time and shows the day appointments.
 
